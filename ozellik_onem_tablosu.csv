@@ -1,0 +1,27 @@
+﻿Özellik,Önem Skoru,Yüzde
+Sedentary_x_Stress,0.1429,14.29
+Diet,0.1093,10.93
+Physical Activity Days Per Week,0.0997,9.97
+Sex,0.0956,9.56
+Continent,0.0881,8.81
+Sedentary Hours Per Day,0.086,8.6
+Age,0.0639,6.39
+BMI_Category,0.0305,3.05
+Income,0.0243,2.43
+Heart Rate,0.0212,2.12
+Exercise Hours Per Week,0.0189,1.89
+Country,0.0187,1.87
+BMI,0.0176,1.76
+Age_x_Cholesterol,0.0172,1.72
+Triglycerides,0.0171,1.71
+Obesity,0.0166,1.66
+Diastolic_BP,0.0165,1.65
+Chol_x_Trig,0.0149,1.49
+Medication Use,0.0149,1.49
+Age_x_Systolic,0.0141,1.41
+Cholesterol,0.0136,1.36
+Pulse_Pressure,0.0128,1.28
+Hemisphere,0.0124,1.24
+Systolic_BP,0.012,1.2
+Alcohol Consumption,0.012,1.2
+BP_Category,0.009,0.9
